@@ -28,3 +28,7 @@ install.sh
 ^/README.*
 ^/LICENSE.*
 ^/COPYING
+
+# Provided by the tmux-local package instead, so this submodule stays pristine
+# upstream and never has to be edited to customise tmux.
+\.tmux\.conf\.local
